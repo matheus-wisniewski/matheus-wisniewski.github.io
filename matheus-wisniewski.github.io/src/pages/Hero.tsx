@@ -5,7 +5,7 @@ function Hero() {
   return (
     <>
     <header>
-      <h1>Matheus.</h1>
+      <h1>Matheus</h1>
       <nav className="hero-nav">
         <NavLink to="/projetos"> Projetos </NavLink>
         <NavLink to="/sobre"> Sobre </NavLink>
